@@ -5,7 +5,7 @@ clear
 close all
 
 % Set hyperparameters
-Num_meas = 10; %Number of measurements
+Num_meas = 20; %Number of measurements
 It_Ista = 10000; %Iterations for ISTA
 It_SDP = 50000; %Iterations for SDP
 
